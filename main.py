@@ -22,7 +22,3 @@ if __name__ == '__main__':
     example = frmModelo()
     example.show()
     sys.exit(app.exec_()) 
-
-
-#Ejecutar este comando dentro del directorio 'archivos_ui'
-# pyuic5 -x frm_prueba_estilo.ui -o frm_prueba_estilo_ui.py
